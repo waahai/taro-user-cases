@@ -1,6 +1,20 @@
 const userCases = {
   微信小程序: [
     {
+      name: "剧本杀评分",
+      url: "https://h5resouce.oss-cn-shanghai.aliyuncs.com/gh_c6791ccdec0d_258.jpg",
+      framework: "React",
+      taroVersion: "1.3.17",
+      screenshot: ["https://h5resouce.oss-cn-shanghai.aliyuncs.com/20220316110429.jpg","https://h5resouce.oss-cn-shanghai.aliyuncs.com/20220316110436.jpg"]
+    },
+    {
+      name: "开本吧",
+      url: "https://h5resouce.oss-cn-shanghai.aliyuncs.com/gh_8e2a60e65ffa_258.jpg",
+      framework: "React",
+      taroVersion: "1.3.17",
+      screenshot: ["https://h5resouce.oss-cn-shanghai.aliyuncs.com/20220316110445.jpg", "https://h5resouce.oss-cn-shanghai.aliyuncs.com/20220316110441.jpg"]
+    },
+    {
       name: "九机商城",
       url: "https://img.9xun.com/newstatic/18655/041d0c9a4cc53e83.jpg",
       framework: "vue3",
